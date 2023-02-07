@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494051556145",
+    "project_id": "add-fb-flutter",
+    "storage_bucket": "add-fb-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494051556145:android:8087eef6de139e20d54e10",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494051556145-f5863a6bl11vvbvnsdpd4g5lno3ajkn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWycwQw9ABsz5fWXvQgKgJOjwmBTWrRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494051556145-f5863a6bl11vvbvnsdpd4g5lno3ajkn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
